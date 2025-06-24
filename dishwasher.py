@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types, F
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.filters import Command
 
-BOT_TOKEN = "7648209688:AAGvL3EUSZjoBIT_-RyF02hZ1T6PbqPcg4k"
+BOT_TOKEN = "7558487345:AAEHudv63UjBPaBkgUoRCM8_6TrrsnOcb8k"
 
 people_list = [
     "Басков", "Максон Пронто", "Мішаня Планокур", "Максон на цепі",
